@@ -11,8 +11,8 @@ The figures below show the point estimate of intensity and the upper and lower l
 
 ## Description of code
 #### pred_int_1D_syn.m
-This script demonstrates the functionality of our code in 1D space with an exponentially decaying intensity function. The events are sampled from an inhomegeneous Poisson process using inversion sampling. The functions used inside the script are also given and have a detailed description of the INPUTs and OUTPUTs in their function definition. (You can simpply run the script to get an idea)
+This script demonstrates the functionality of our code in 1D space with an exponentially decaying intensity function. The events are sampled from an inhomegeneous Poisson process using inversion sampling. The functions used inside the script are also given and have a detailed description of the INPUTs and OUTPUTs in their function definition. (You can simply run the script to get an idea)
 
 #### hickory.m
-This script demonstrates the functionality of our code in 2D space using real data of hickory tree locations. The data is also attached in the csv file. In 2D, we use hexagonal gridding and the sub-functions to do that are also attached. (You can simply run the script to get an idea).
+This script demonstrates the functionality of our code in 2D space using real data of hickory tree locations. The data is also attached in the csv file. In 2D, we use hexagonal gridding and the sub-functions to do that are also provided. (You can simply run the script to get an idea).
 
